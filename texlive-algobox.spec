@@ -1,6 +1,6 @@
 Name:		texlive-algobox
 Version:	52204
-Release:	1
+Release:	2
 Summary:	Typeset Algobox programs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algobox
