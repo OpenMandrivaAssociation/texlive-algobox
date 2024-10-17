@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Typeset Algobox programs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algobox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/algobox
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algobox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algobox.doc.r%{version}.tar.xz
